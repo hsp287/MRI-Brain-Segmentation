@@ -15,3 +15,6 @@ Basic data normalization and cropping are employed to keep inputs.
 For the 2D data inputs, random flips and rotations are applied. For the 3D data inputs, only random flips are applied.
 
 ## Model architectures:
+(a) 2D Unet (Flair only)  (b) 2D Unet (Multiple MRI types)  (c) 3D Unet (FLAIR only)
+![alt text](Images/unet_all3.png)
+<img src="Images/unet_all3.png" width="24">
