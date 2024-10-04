@@ -25,4 +25,7 @@ For the 2D data inputs, random flips and rotations are applied. For the 3D data 
 |<img src="Images/loss_dice.png" width="100%">|<img src="Images/2d_results.png" width="100%"><img src="Images/3d_results.png" width="67%">|
 
 
-
+## GIF of 3D segmentation results:
+Yellow: Overlap
+Green: Error
+<img src="Images/3D_segmentation.gif" width="100%" margin-left="auto" margin-right="auto">
