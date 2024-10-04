@@ -16,5 +16,13 @@ For the 2D data inputs, random flips and rotations are applied. For the 3D data 
 
 ## Model architectures:
 (a) 2D Unet (Flair only)  (b) 2D Unet (Multiple MRI types)  (c) 3D Unet (FLAIR only)
-![alt text](Images/unet_all3.png)
-<img src="Images/unet_all3.png" width="24">
+<img src="Images/unet_all3.png" width="50%" margin-left="auto" margin-right="auto">
+
+## Results:
+
+|Loss and DICE curves|Segmentation Results|
+|---------------|-----------|
+|<img src="Images/loss_dice.png" width="100%">|<img src="Images/2d_results.png" width="100%"><img src="Images/3d_results.png" width="67%">|
+
+
+
